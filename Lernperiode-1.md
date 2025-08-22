@@ -16,12 +16,15 @@ Ich möchte mich gerne mit Minecraft-Modding beschäftigen. Dazu würde ich gern
 ### Generelle Ziele
 In dieser Lernperiode möchte ich eine Minecraft-Mod erstellen, die bei Ausführung eines Befehls wie /afk eine Discord-Nachricht sendet, sobald sich ein Spieler in der Nähe befindet
 
-### Planung 22.08.2025
-[]LB Übung machen
-
+## 22.08.2025
+### Planung
+[]LB(Leinstungsbeurteilung) Übung machen
 []Grobplanung erstellen
+[]Miencraft Mod erstellen und test.
 
-[]Miencraft Mod test
+# Reflexion 
+Die LB-Übung verlief gut, auch wenn ich manche Aufgaben nicht sofort verstanden habe. Durch Rückfragen beim Lehrer konnte ich Unklarheiten klären. Die Grobplanung lief reibungslos. Beim Minecraft-Modding funktionierte alles wie geplant, ohne technische Probleme. Insgesamt war der Tag produktiv und es gab keine grossen Porbleme.
+
 
 
 
