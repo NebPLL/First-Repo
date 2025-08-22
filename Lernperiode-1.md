@@ -18,5 +18,4 @@ In dieser Lernperiode möchte ich eine Minecraft-Mod erstellen, die bei Ausführ
 
 
 
-<img width="293" height="81" alt="image" src="https://github.com/user-attachments/assets/2e4c6b03-badb-4298-a6db-99a2cb25d75c" />
 
