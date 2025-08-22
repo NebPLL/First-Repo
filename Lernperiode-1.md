@@ -18,7 +18,9 @@ In dieser Lernperiode möchte ich eine Minecraft-Mod erstellen, die bei Ausführ
 
 ### Planung 22.08.2025
 []LB Übung machen
+
 []Grobplanung erstellen
+
 []Miencraft Mod test
 
 
