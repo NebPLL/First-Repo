@@ -31,11 +31,24 @@ Die LB-Übung verlief gut, auch wenn ich manche Aufgaben nicht sofort verstanden
 ## 29.08.2025 
 
 ### Planung 
-[] Für die Meincraft Mod den /afk befehl hinzufügen
+[x] Für die Meincraft Mod den /afk befehl hinzufügen
 
-[] An den Portfolio eintrag arbeiten wenn er nocht nicht Fertig ist
+[x] An den Portfolio eintrag arbeiten wenn er nocht nicht Fertig ist
 
-[] An modul 431 wenn ich nicht die Ziele von Dienstag ereicht habe.
+[x] An modul 431 wenn ich nicht die Ziele von Dienstag ereicht habe.
+
+#Reflexion
+Das hinzufügen des /afk befehl gab es ein kleines problem, da ich ihn so hinzufgefügt habe das man ihn auf einen server nicht aktivieren kann aber ich konnte es mit ChatGPT lösen und Fabric documentation. Ich habe auch noch Discord notification hinzugefügt mit dem gefunden spieler + avatar. Das weiter abreiten von  Modul 431 ging okay ich habe nicht ganz alles geschaft aber ich kann das noch zu hause fertig machen.
+
+## 05.09.2025
+
+### Planung
+[] In Discord nachricht schauen wie viel geld er auf DonutSmp hat. 
+
+[] Module 431 weiter arbeiten
+
+[] Schauen wie Discord Api functioniert
+
 
 
 
