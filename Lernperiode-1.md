@@ -30,7 +30,9 @@ Die LB-Übung verlief gut, auch wenn ich manche Aufgaben nicht sofort verstanden
 
 ### Planung 
 [] Für die Meincraft Mod den /afk befehl hinzufügen
+
 [] An den Portfolio eintrag arbeiten wenn er nocht nicht Fertig ist
+
 [] An modul 431 wenn ich nicht die Ziele von Dienstag ereicht habe.
 
 
