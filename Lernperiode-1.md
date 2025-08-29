@@ -20,7 +20,9 @@ In dieser Lernperiode möchte ich eine Minecraft-Mod erstellen, die bei Ausführ
 
 ### Planung
 [x]LB(Leinstungsbeurteilung) Übung machen
+
 [x]Grobplanung erstellen
+
 [x]Miencraft Mod erstellen und test.
 
 # Reflexion 
