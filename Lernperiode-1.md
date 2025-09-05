@@ -25,7 +25,7 @@ In dieser Lernperiode möchte ich eine Minecraft-Mod erstellen, die bei Ausführ
 
 [x]Miencraft Mod erstellen und test.
 
-# Reflexion 
+### Reflexion 
 Die LB-Übung verlief gut, auch wenn ich manche Aufgaben nicht sofort verstanden habe. Durch Rückfragen beim Lehrer konnte ich Unklarheiten klären. Die Grobplanung lief reibungslos. Beim Minecraft-Modding funktionierte alles wie geplant, ohne technische Probleme. Insgesamt war der Tag produktiv und es gab keine grossen Porbleme.
 
 ## 29.08.2025 
@@ -37,7 +37,7 @@ Die LB-Übung verlief gut, auch wenn ich manche Aufgaben nicht sofort verstanden
 
 [x] An modul 431 wenn ich nicht die Ziele von Dienstag ereicht habe.
 
-# Reflexion
+### Reflexion
 Das hinzufügen des /afk befehl gab es ein kleines problem, da ich ihn so hinzufgefügt habe das man ihn auf einen server nicht aktivieren kann aber ich konnte es mit ChatGPT lösen und Fabric documentation. Ich habe auch noch Discord notification hinzugefügt mit dem gefunden spieler + avatar. Das weiter abreiten von  Modul 431 ging okay ich habe nicht ganz alles geschaft aber ich kann das noch zu hause fertig machen.
 
 ## 05.09.2025
@@ -45,9 +45,21 @@ Das hinzufügen des /afk befehl gab es ein kleines problem, da ich ihn so hinzuf
 ### Planung
 [] In Discord nachricht schauen wie viel geld er auf DonutSmp hat. 
 
-[] Module 431 weiter arbeiten
+[x] Module 431 weiter arbeiten
 
-[] Schauen wie Discord Api functioniert
+[x] Schauen wie Discord Api functioniert
+
+## 12.09.2025
+
+### Reflexion
+Der Tag verlief ganz gut ich konnte mir die Dirscord Api. Dazu habe ich den /afk befehl verbessert in dem man jetzt sachen einstellen kann wie disableOnMove also wenn man sich bewegt die mod deavtivieren. Ich habe mich dagegen entschieden DonutSmp geld in der Discrod nachricht anzuschauen, weil das unötig ist und man das selber später anschauen kann. 
+
+
+### Planung
+
+[] Module 431 weitern wenn ich das letze mal nicht mit allen aufgaben fertig wurde
+
+[] Mehr einstellungen hinzufügen wie DiscordWebHook automatisch anpassen, Farbe vom text usw 
 
 
 
