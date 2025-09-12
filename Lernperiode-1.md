@@ -57,9 +57,19 @@ Der Tag verlief ganz gut ich konnte mir die Dirscord Api anschauen. Dazu habe ic
 
 ### Planung
 
-[] Module 431 weitern wenn ich das letze mal nicht mit allen aufgaben fertig wurde
+[x] Module 431 weitern wenn ich das letzte mal nicht mit allen aufgaben fertig wurde
 
-[] Mehr einstellungen hinzufügen wie DiscordWebHook automatisch anpassen, Farbe vom text usw 
+[x] Mehr einstellungen hinzufügen wie DiscordWebHook automatisch anpassen, Farbe vom text usw  
+
+## 12.09.2025
+
+### Reflexion
+Ich konnte am Module 431 weiter arbeiten, dazu habe ich noch zu meiner mod ein paar weitere einstellungen hinzugefügt
+
+### Planung
+
+[] Module 431 weiter arbeiten, wenn ich das letzte mal nicht mit allen aufgaben fertig wurde.
+[] Status vom Player in Dicord anzeigen.
 
 
 
