@@ -52,7 +52,7 @@ Das hinzufügen des /afk befehl gab es ein kleines problem, da ich ihn so hinzuf
 ## 12.09.2025
 
 ### Reflexion
-Der Tag verlief ganz gut ich konnte mir die Dirscord Api. Dazu habe ich den /afk befehl verbessert in dem man jetzt sachen einstellen kann wie disableOnMove also wenn man sich bewegt die mod deavtivieren. Ich habe mich dagegen entschieden DonutSmp geld in der Discrod nachricht anzuschauen, weil das unötig ist und man das selber später anschauen kann. 
+Der Tag verlief ganz gut ich konnte mir die Dirscord Api anschauen. Dazu habe ich den /afk befehl verbessert in dem man jetzt sachen einstellen kann wie disableOnMove also wenn man sich bewegt die mod deavtivieren. Ich habe mich dagegen entschieden DonutSmp geld in der Discrod nachricht anzuschauen, weil das unötig ist und man das selber später anschauen kann. 
 
 
 ### Planung
