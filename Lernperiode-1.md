@@ -73,6 +73,17 @@ Ich konnte am Module 431 weiter arbeiten, dazu habe ich noch zu meiner mod ein p
 [] Status vom Player in Dicord anzeigen.
 
 
+## 26.09.2025
+
+### Reflexion
+Ich habe beim letzten mal vergessen aufzuschreiben was ich heute machen will. Ich habe heute an Modul 431 gearbeitet und Geografie gelernt.
+
+### Todos
+[] An Modul 431 weiter arbeiten 
+
+[] Schauen ob ein Neue Lern periode anfängt
+
+
 
 
 
