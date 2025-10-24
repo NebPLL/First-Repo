@@ -17,11 +17,11 @@ Ich möchte Lernen wie Doker functoniert und wie man es benutzen kann.
 In dieser Lernperiode möchte ich Lernen wie Docker functoniert. Vielleicht auch dann Projecte machen wie einen eigenen Server.
 
 # 24.10.2025
-## Reflexion
+### Reflexion
 Ich habe mir angeschaut wie die Basics von Docker funktonieren.
 
 # 31.10.2025
 ## Planung
-[ ] An Modul 319 OBA und Lernen
+[] An Modul 319 OBA und Lernen
 [ ] Eigenen Server machen
 
