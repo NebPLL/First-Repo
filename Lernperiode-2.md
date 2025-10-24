@@ -2,7 +2,7 @@
 
 Name: Ben Heger
 
-22.08.2025 bis 06.10.2025
+24.10.2025 bis 21.12.2025
 # Grob-Planung
 
 ### Noten
