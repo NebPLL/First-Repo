@@ -26,3 +26,5 @@ Ich habe mir angeschaut wie die Basics von Docker funktonieren.
 
 [ ] Eigenen Server machen
 
+### Reflexion
+Ich habe einen einfachen http server gemacht und mit docker deploied. Dazu habe ich die OBA erstellt und für den Test geschrieben.
