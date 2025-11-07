@@ -32,5 +32,6 @@ Ich habe einen einfachen http server gemacht und mit docker deploied. Dazu habe 
 # 7.11.2025 
 
 ## Planung
-.[] Modul 162 fertig stellen was ich noch nicht geschafft habe.
-.[ ] Wie kann man docker Images auf einen server "hoch laden".
+[ ] Modul 162 fertig stellen was ich noch nicht geschafft habe.
+
+[ ] Wie kann man docker Images auf einen server "hoch laden".
