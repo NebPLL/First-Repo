@@ -35,3 +35,12 @@ Ich habe einen einfachen http server gemacht und mit docker deploied. Dazu habe 
 [ ] Modul 162 fertig stellen was ich noch nicht geschafft habe.
 
 [ ] Wie kann man docker Images auf einen server "hoch laden".
+
+### Reflexion 
+Ich konnte alles für modul 162 fertigstellen und ich konnte das Image auch nach ein paar problemen hoch laden.
+
+# 7.11.2025
+
+###
+[ ] Modul 162 weiter arbeiten
+[ ] Project machen mit docker 
