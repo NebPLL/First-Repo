@@ -28,3 +28,9 @@ Ich habe mir angeschaut wie die Basics von Docker funktonieren.
 
 ### Reflexion
 Ich habe einen einfachen http server gemacht und mit docker deploied. Dazu habe ich die OBA erstellt und für den Test geschrieben.
+
+# 7.11.2025 
+
+## Planung
+.[] Modul 162 fertig stellen was ich noch nicht geschafft habe.
+.[ ] Wie kann man docker Images auf einen server "hoch laden".
