@@ -41,6 +41,18 @@ Ich konnte alles für modul 162 fertigstellen und ich konnte das Image auch nach
 
 # 7.11.2025
 
-###
+### Planung
 [ ] Modul 162 weiter arbeiten
+
 [ ] Project machen mit docker 
+
+# Reflexion
+Ich musste heute sehr viel für Modul 162 gemacht und deswegen nicht so viel mit Docker arbeiten können.
+
+# 28.11.2025
+
+### Planung
+[ ] Module 162 weiter machen
+
+[ ] Rendering Engine 
+
