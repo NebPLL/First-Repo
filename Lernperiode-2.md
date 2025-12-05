@@ -56,3 +56,12 @@ Ich musste heute sehr viel für Modul 162 gemacht und deswegen nicht so viel mit
 
 [ ] Rendering Engine 
 
+### Reflexion
+Habe vergessen das letzte message zu commiten
+
+# 5.12.2025
+
+### Planung 
+[ ] Module 162 weiter machen was ich noch nicht fertig habe
+[ ] In OpenGL anschauen was VBOs, VAOs und EBOs sind
+
