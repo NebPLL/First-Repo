@@ -65,3 +65,8 @@ Habe vergessen das letzte message zu commiten
 [ ] Module 162 weiter machen was ich noch nicht fertig habe
 [ ] In OpenGL anschauen was VBOs, VAOs und EBOs sind
 
+# 19.12.2025
+
+## Reflexion
+Ich konnte diese Lernperiode leider nicht so viel machen, da ich sehr viele Test hatte und viel Lernen musste. Ich konnte doch 
+
