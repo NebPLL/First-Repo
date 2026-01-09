@@ -15,3 +15,21 @@ Ich möchte gerne die Welt von Linx kennen lernen. Deswegen habe ich Arch linux 
 
 # Generelle Ziele
 Ich versuche hyprland ein Window Manager so zu costomizen bis es mir gefällt.
+
+
+# 09.01.2026
+
+## Reflexion
+Ich habe heute an der Waybar gearbeitet aber noch kein guttes design gefunden
+
+
+# 15.01.2026
+
+## Ziehele 
+[ ] Guttes Waybar design finden 
+[ ] Falls ich ncoh sachen machen muss für die Module
+
+
+
+
+
