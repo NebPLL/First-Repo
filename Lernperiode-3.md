@@ -29,6 +29,10 @@ Ich habe heute an der Waybar gearbeitet aber noch kein guttes design gefunden
 [ ] Guttes Waybar design finden 
 [ ] Falls ich ncoh sachen machen muss für die Module
 
+# 23.01.2026
+
+## Reflexion 
+Ich habe heute bei M117 weiter gearbeitet. Dazu habe ich bei archlinux Discord installiert, es gelösst das ich auch auf hyprland mich mit wlan connecten kann und bei der waybar es hinzugefügt das wenn man auf das wlan icon drückt das es sich NM Gui öffnet. 
 
 
 
