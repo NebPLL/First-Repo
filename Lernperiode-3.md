@@ -34,6 +34,15 @@ Ich habe heute an der Waybar gearbeitet aber noch kein guttes design gefunden
 ## Reflexion 
 Ich habe heute bei M117 weiter gearbeitet. Dazu habe ich bei archlinux Discord installiert, es gelösst das ich auch auf hyprland mich mit wlan connecten kann und bei der waybar es hinzugefügt das wenn man auf das wlan icon drückt das es sich NM Gui öffnet. 
 
+# 20.02.2026
 
+## Reflexion 
+Ich musste noch viel für M117 Arbeiten und konnte desewegen nicht mehr weiter machen
+
+Ich habe jetzt keine ziele geamcht weil ich es das letzte mal vergessen habe hinzuschrieben
+# 27.02.2026
+
+## Reflexion 
+Ich habe heute die Teilaufgaben 1 & 2 beim Project M164 fertig gestellt. Ich habe dazu am Wochenende noch mein Setup fertig gemacht und habe mich auch ein Everforest theme umentschieden. Ich habe dazu angefangen an einen Art server Monitor.
 
 
