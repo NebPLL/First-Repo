@@ -45,4 +45,13 @@ Ich habe jetzt keine ziele geamcht weil ich es das letzte mal vergessen habe hin
 ## Reflexion 
 Ich habe heute die Teilaufgaben 1 & 2 beim Project M164 fertig gestellt. Ich habe dazu am Wochenende noch mein Setup fertig gemacht und habe mich auch ein Everforest theme umentschieden. Ich habe dazu angefangen an einen Art server Monitor.
 
+# 06.03.2026
 
+## Reflexion 
+Ich habe heute noch an M187 gearbetiet. Ich habe probiert Word, Onenote und Exel versuchen zum laufen zu Bringen, leider hat es nicht geklappt.
+
+# 13.03.2026
+
+## Ziehle
+[ ] Weiter an Modulen arbeiten
+[ ] Vielleicht versuchen Word, Exel, Onenote auf Linux zum Laufen zu bringen.
