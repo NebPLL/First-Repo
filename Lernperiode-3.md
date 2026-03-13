@@ -54,4 +54,17 @@ Ich habe heute noch an M187 gearbetiet. Ich habe probiert Word, Onenote und Exel
 
 ## Ziehle
 [ ] Weiter an Modulen arbeiten
-[ ] Vielleicht versuchen Word, Exel, Onenote auf Linux zum Laufen zu bringen.
+[x] Vielleicht versuchen Word, Exel, Onenote auf Linux zum Laufen zu bringen.
+
+## Reflexion
+Ich habe Word, Exel und Onenote "zum laufen gebracht" ich habe kein Linux prot gefunden deswegen habe ich die Browser versionen benutzt. Ich habe aber dazu Libreoffice heruntergeladen was gar nicht so schlecht ist. Dazu habe ich steam heruntergeladen wo es ein paar probleme gegeben hat mit mirros aber ich habe es geschaft herunter zu laden. Ich habe dann auch noch versucht ein game zu runnen nämlich Geometry Dash das hat super funkoniert. 
+
+# 20.03.2026
+
+## Ziehle
+[ ] Versuchen das der Pen besser funkoniert mit Short cuts usw
+
+[ ] KDE plasma ein bisschen schöner machen und an passen
+
+[ ] Schauen ob ich Widgets brauchen könnte mit eww
+
