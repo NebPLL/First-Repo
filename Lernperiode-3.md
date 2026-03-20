@@ -62,9 +62,13 @@ Ich habe Word, Exel und Onenote "zum laufen gebracht" ich habe kein Linux prot g
 # 20.03.2026
 
 ## Ziehle
-[ ] Versuchen das der Pen besser funkoniert mit Short cuts usw
+[x] Versuchen das der Pen besser funkoniert mit Short cuts usw
 
-[ ] KDE plasma ein bisschen schöner machen und anpassen
+[x] KDE plasma ein bisschen schöner machen und anpassen
 
-[ ] Schauen ob ich Widgets brauchen könnte mit eww
+[x] Schauen ob ich Widgets brauchen könnte mit eww
+
+## Reflexion
+Es gab ein paar probleme mit dem Pen da ich keine Driver gefunden die für Linux funkonieren. KDE plasma habe ich verbesstert und schöner
+gemacht. Ich habe mich gegen Widgets entschieden, da ich sie nicht so nutz voll gefunden habe und viel aufwand gebraucht hätten.
 
