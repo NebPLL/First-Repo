@@ -64,7 +64,7 @@ Ich habe Word, Exel und Onenote "zum laufen gebracht" ich habe kein Linux prot g
 ## Ziehle
 [ ] Versuchen das der Pen besser funkoniert mit Short cuts usw
 
-[ ] KDE plasma ein bisschen schöner machen und an passen
+[ ] KDE plasma ein bisschen schöner machen und anpassen
 
 [ ] Schauen ob ich Widgets brauchen könnte mit eww
 
