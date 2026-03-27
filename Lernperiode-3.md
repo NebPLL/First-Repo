@@ -76,6 +76,13 @@ gemacht. Ich habe mich gegen Widgets entschieden, da ich sie nicht so nutz voll 
 
 ## Ziehle
 
-[ ] Dots fieles hochladen auf github
+[ ] Dotsfiles hochladen auf github
 [ ] Ein install skript machen 
 [ ] Schauen wie man Grub mit Windows benutzten kann
+
+## Reflexion
+Ich habe die Dotfiles & ein install skrit gemacht, aber ich habe es nicht geschaft grub mit windows zu funkonieren hauptsächlich weil ich angst hatte das bitlocker mich komplett auspert und da ich kein account habe konnte auch kein Recovery key machen, also habe ich es sein lassen.
+
+
+# Lernperioden Reflexion
+Ich habe diese Lernperiode mein Linux so configuriert wie ich es will. Es hat mir sehr spass gemacht und ich habe auch ein paar neue command gelernt, aber ich habe auch gemerkt es ist für mich nicht so möglich das ich zu 100% linux benutze das viele Programme einfach besser auf Windows funkonieren. 
