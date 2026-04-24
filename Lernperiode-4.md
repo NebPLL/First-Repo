@@ -1,7 +1,7 @@
 # Lernperiode 4
 
 Name: Ben Heger
-24.04.2026 bis 27.03.2025
+24.04.2026 bis 29.06.2026
 
 # Grob-Planung
 # Noten
