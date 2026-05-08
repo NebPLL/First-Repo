@@ -21,3 +21,6 @@ Ich habe mir heute einfach mal anegschaut wie genau react Funkioniert und habe m
 
 # 08.05.2026
 Ich habe heute entschieden das ich von React zu einen Art Crypto Payment project wechseln will.
+
+# Reflexion 
+Ich habe heute mich mal mit Postgres auseinander gesetzt, dass Git repo gemacht und DataGrip heruntergeladen. Dazu habe ich schon angefangen mit dem API programmieren.
