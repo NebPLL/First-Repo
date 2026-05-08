@@ -9,7 +9,7 @@ Ich habe momentan einen 5.1 Schnitt
 
 # Projecte / neue Technologien
 
-Für diese Lernperiode werde ich versuchen React zu Lernen. Ich werde genauer Next.js benutzen.
+Ich habe heute entschieden das ich vom React lernen zu einen Crypto Payment Api service ändern will. Es funkoniert so das der Merchant einen API-Key bekommt. Wenn ein Kude vom Merchant etwas kaufen will macht der Merchant eine Invoice erstellen mit Paymount amout, Contract Adresse vom Token, xpub oder adresse und noch ein paar anderen informationen. Dann Watche ich das Wallet mit Alchamy sobald die Token überwiesen werden wird per Webhook der Merchant informiert und er kann das Payment handeln.
 
 # Generelle Ziele
 Ich versuche einfach ein paar webseiten zu programmiren und die dann vielleicht an eine SQL Database anzuschliessen.
@@ -18,3 +18,6 @@ Ich versuche einfach ein paar webseiten zu programmiren und die dann vielleicht 
 
 # Reflexion
 Ich habe mir heute einfach mal anegschaut wie genau react Funkioniert und habe mal das Next.js tutorial angefangen. 
+
+# 08.05.2026
+Ich habe heute entschieden das ich von React zu einen Art Crypto Payment project wechseln will.
