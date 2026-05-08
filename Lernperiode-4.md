@@ -24,3 +24,10 @@ Ich habe heute entschieden das ich von React zu einen Art Crypto Payment project
 
 # Reflexion 
 Ich habe heute mich mal mit Postgres auseinander gesetzt, dass Git repo gemacht und DataGrip heruntergeladen. Dazu habe ich schon angefangen mit dem API programmieren.
+
+# 21.05.2026
+
+# Ziehle
+[ ] Postgres mit API verbinden
+[ ] API token und Auth valiedirung
+[ ] Alchamy anschauen
