@@ -28,6 +28,18 @@ Ich habe heute mich mal mit Postgres auseinander gesetzt, dass Git repo gemacht 
 # 21.05.2026
 
 # Ziehle
-[ ] Postgres mit API verbinden
-[ ] API token und Auth valiedirung
-[ ] Alchamy anschauen
+[x] Postgres mit API verbinden
+[x] API token und Auth valiedirung
+[x] Alchamy anschauen
+
+# Reflexion
+Ich habe mir mal Alchamy angeschaut und eine app erstellt und die ersten chains ausgewählt. Ich habe schon endpoints für merchant creation, xpub creation, api key creation und app creation. Ich habe dazu noch angefangen validator bentutzen um zu schauen ob das json was im body drin steht richtig ist und nicht zu gross oder zu klein ist.
+
+# 28.05.2026
+
+# Ziehle
+[] Invoice Creation 
+
+[] Webhook Secreet generieren
+
+[] Versuchen das ich wallets usw tracken kann mit alchemy
