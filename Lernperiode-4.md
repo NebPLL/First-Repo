@@ -38,8 +38,20 @@ Ich habe mir mal Alchamy angeschaut und eine app erstellt und die ersten chains 
 # 28.05.2026
 
 # Ziehle
-[] Invoice Creation 
+[x] Invoice Creation 
 
-[] Webhook Secreet generieren
+[x] Webhook Secreet generieren
 
 [] Versuchen das ich wallets usw tracken kann mit alchemy
+
+# Reflexion 
+Ich habe heute die ersten 2 ziehle ereicht. Das 2 hat ein paar probleme gegeben, da es errors gab die ich nicht fixen konnte.
+
+# 5.06.2026
+
+# Ziehle 
+[ ] Alechmy fixen
+
+[ ]  Invoice Deleten 
+
+[ ] Invoice Status und per api invoice abfragen
