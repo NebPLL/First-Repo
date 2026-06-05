@@ -41,12 +41,10 @@ Reflexion: Ich habe heute die ersten 2 ziehle ereicht. Das 2 hat ein paar proble
 - [x] Invoice Creation 
 - [x] Webhook Secreet generieren
 - [] Versuchen das ich wallets usw tracken kann mit alchemy
-
-
-
-## 5.06.2026
-
-# Planung 5.06.2026
-- [ ] Alechmy fixen
-- [ ]  Invoice Deleten 
-- [ ] Invoice Status und per api invoice abfragen
+  
+##  5.06.2026
+Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probleme
+## Planung 5.06.2026
+- [x] Alechmy fixen
+- [x]  Invoice Deleten 
+- [x] Invoice Status und per api invoice abfragen
