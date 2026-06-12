@@ -54,7 +54,9 @@ Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probl
 Ich habe letzes mal vergessen die Planung zu machen. Ich habe in der letzen woche erfahren das es Supabase gibt womit man einfach Logins und anderes machen kann. Deswegen probiere ich haute mal superbase aus und versuche ein basic project zu bauen wo ich mich anmelden kann, damit ich es vielleicht in mein projekt ein binden kann.
 
 ## Planung 12.06.2026
-- [] Supabase anschauen
-- [] Ein einfache App bauen mit Login
-- [] Schauen wie ich es in mein Projekt einbauen kann
+Reflexion: Ich habe mir Supabase angeschaut. Ich habe ein einfache example gebaut wo ich daten von der database bekomme und das ich mich anmelden kann mit 2 usern.
+
+- [x] Supabase anschauen
+- [x] Ein einfache App bauen mit Login
+- [x] Schauen wie ich es in mein Projekt einbauen kann
 
