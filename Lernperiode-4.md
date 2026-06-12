@@ -7,10 +7,10 @@ Name: Ben Heger
 ### Noten
 Ich habe momentan einen 5.1 Schnitt
 
-### Veränderung
+### Veränderungen
 Zu der letzen Lernperiode will ich mehr auch zuhause weiter machen.
 
-### Projecte / neue Technologien
+### Projekte / neue Technologien
 Ich habe heute entschieden das ich vom React lernen zu einen Crypto Payment Api service ändern will. Es funkoniert so das der Merchant einen API-Key bekommt. Wenn ein Kude vom Merchant etwas kaufen will macht der Merchant eine Invoice erstellen mit Paymount amout, Contract Adresse vom Token, xpub oder adresse und noch ein paar anderen informationen. Dann Watche ich das Wallet mit Alchamy sobald die Token überwiesen werden wird per Webhook der Merchant informiert und er kann das Payment handeln.
 
 ### Generelle Ziele
@@ -43,8 +43,18 @@ Reflexion: Ich habe heute die ersten 2 ziehle ereicht. Das 2 hat ein paar proble
 - [] Versuchen das ich wallets usw tracken kann mit alchemy
   
 ##  5.06.2026
-Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probleme
+Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probleme.
+
 ## Planung 5.06.2026
 - [x] Alechmy fixen
-- [x]  Invoice Deleten 
+- [x] Invoice Deleten 
 - [x] Invoice Status und per api invoice abfragen
+
+## 12.06.2026
+Ich habe letzes mal vergessen die Planung zu machen. Ich habe in der letzen woche erfahren das es Supabase gibt womit man einfach Logins und anderes machen kann. Deswegen probiere ich haute mal superbase aus und versuche ein basic project zu bauen wo ich mich anmelden kann, damit ich es vielleicht in mein projekt ein binden kann.
+
+## Planung 12.06.2026
+- [] Supabase anschauen
+- [] Ein einfache App bauen mit Login
+- [] Schauen wie ich es in mein Projekt einbauen kann
+
