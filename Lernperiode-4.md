@@ -60,3 +60,11 @@ Reflexion: Ich habe mir Supabase angeschaut. Ich habe ein einfache example gebau
 - [x] Ein einfache App bauen mit Login
 - [x] Schauen wie ich es in mein Projekt einbauen kann
 
+## 19.06.2026
+Ich habe vergessen die Planung zu machen aber heute will ich eine Login page machen.
+
+## Planung 19.06.2026
+
+- [] Login Page design machen
+- [] Packend machen für Login 
+- [] Test User erstellen und Testen
