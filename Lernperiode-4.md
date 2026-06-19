@@ -40,7 +40,7 @@ Reflexion: Ich habe heute die ersten 2 ziehle ereicht. Das 2 hat ein paar proble
 ## Planung 28.05.2026
 - [x] Invoice Creation 
 - [x] Webhook Secreet generieren
-- [] Versuchen das ich wallets usw tracken kann mit alchemy
+- [ ] Versuchen das ich wallets usw tracken kann mit alchemy
   
 ##  5.06.2026
 Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probleme.
@@ -64,7 +64,8 @@ Reflexion: Ich habe mir Supabase angeschaut. Ich habe ein einfache example gebau
 Ich habe vergessen die Planung zu machen aber heute will ich eine Login page machen.
 
 ## Planung 19.06.2026
+Reflexion: Ich konnte heute eine einfache Login page gestallten. Es gab für ein paar probleme mit dem backend da es irgendwie nicht den user verfizieren wollte. Am ende konnte ich es schaffen. 
 
-- [ ] Login Page design machen
-- [ ] Packend machen für Login 
-- [ ] Test User erstellen und Testen
+- [x] Login Page design machen
+- [x] Backend machen für Login 
+- [x] Test User erstellen und Testen
