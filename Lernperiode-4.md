@@ -65,6 +65,6 @@ Ich habe vergessen die Planung zu machen aber heute will ich eine Login page mac
 
 ## Planung 19.06.2026
 
-- [] Login Page design machen
-- [] Packend machen für Login 
-- [] Test User erstellen und Testen
+- [ ] Login Page design machen
+- [ ] Packend machen für Login 
+- [ ] Test User erstellen und Testen
