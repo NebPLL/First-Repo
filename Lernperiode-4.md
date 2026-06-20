@@ -51,21 +51,28 @@ Reflexion: Heute habe ich alle meine Aufgaben fertig gemacht. Es gab keine Probl
 - [x] Invoice Status und per api invoice abfragen
 
 ## 12.06.2026
-Ich habe letzes mal vergessen die Planung zu machen. Ich habe in der letzen woche erfahren das es Supabase gibt womit man einfach Logins und anderes machen kann. Deswegen probiere ich haute mal superbase aus und versuche ein basic project zu bauen wo ich mich anmelden kann, damit ich es vielleicht in mein projekt ein binden kann.
-
-## Planung 12.06.2026
 Reflexion: Ich habe mir Supabase angeschaut. Ich habe ein einfache example gebaut wo ich daten von der database bekomme und das ich mich anmelden kann mit 2 usern.
 
+Ich habe letzes mal vergessen die Planung zu machen. Ich habe in der letzen woche erfahren das es Supabase gibt womit man einfach Logins und anderes machen kann. Deswegen probiere ich haute mal superbase aus und versuche ein basic project zu bauen wo ich mich anmelden kann, damit ich es vielleicht in mein projekt ein binden kann.
+
+## Planung 12.06.2026  
 - [x] Supabase anschauen
 - [x] Ein einfache App bauen mit Login
 - [x] Schauen wie ich es in mein Projekt einbauen kann
 
 ## 19.06.2026
+Reflexion: Ich konnte heute eine einfache Login page gestallten. Es gab für ein paar probleme mit dem backend da es irgendwie nicht den user verfizieren wollte. Am ende konnte ich es schaffen. 
+
 Ich habe vergessen die Planung zu machen aber heute will ich eine Login page machen.
 
 ## Planung 19.06.2026
-Reflexion: Ich konnte heute eine einfache Login page gestallten. Es gab für ein paar probleme mit dem backend da es irgendwie nicht den user verfizieren wollte. Am ende konnte ich es schaffen. 
-
 - [x] Login Page design machen
 - [x] Backend machen für Login 
 - [x] Test User erstellen und Testen
+
+## 26.06.2026
+
+## Planung 26.06.2026
+- [ ] Login Page versuchen zu intiegriren
+- [ ] Test machen
+- [ ] Versuchen Login Page so zu machen das ich sie später aus noch verwenden kann
