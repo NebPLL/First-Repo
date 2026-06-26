@@ -71,8 +71,12 @@ Ich habe vergessen die Planung zu machen aber heute will ich eine Login page mac
 - [x] Test User erstellen und Testen
 
 ## 26.06.2026
+Reflexion: Ich habe lange gebraucht um die Login page zu intiegrieren aber es ging. Ich konnte auch ein paar automatische test machen aber noch nicht so viele wie ich wollte.
 
 ## Planung 26.06.2026
-- [ ] Login Page versuchen zu intiegriren
-- [ ] Test machen
-- [ ] Versuchen Login Page so zu machen das ich sie später aus noch verwenden kann
+- [x] Login Page versuchen zu intiegriren
+- [x] Test machen
+- [x] Versuchen Login Page so zu machen das ich sie später aus noch verwenden kann
+
+## Lernperiode Reflexion 
+Ich habe in dieser lernperiode viel gelernt. Ich habe mir angeschaut wie apis und Login pages funkonieren. Ich habe noch nicht ein fertiges produkt aber ich habe schon mal etwas gelernt
