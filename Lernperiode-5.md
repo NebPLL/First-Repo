@@ -19,9 +19,6 @@ Ich habe das Video im Rendering Engine Verlinkt.
 ### Generelle Ziele
 Ich will eine Rendering Engine machen welche 3D renern kann mit Texturen. Es sollte auch noch UI componenten Rendern können. 
 
-## 14.08.2024
-Reflexion: Ich war krank.
-
 ## 21.08.2024
 
 ## Planung 23.08.2024
