@@ -19,10 +19,20 @@ Ich habe das Video im Rendering Engine Verlinkt.
 ### Generelle Ziele
 Ich will eine Rendering Engine machen welche 3D renern kann mit Texturen. Es sollte auch noch UI componenten Rendern können. 
 
+## 14.08.2026
+Abwesenden
+
 ## 21.08.2026
 Reflexion: Ich konnte das Problem mit den Lücken zwischen 3Ecken gelöst. Wie ich Texturen implementieren könnte hatte ich ein paar probleme, da ich probleme hatte wie Texturen und 3D modelle Funkonieren. Den Code habe ich teilweise "schöner" gemacht. Ich habe funktionen in Vec3 und Int2D ausgelarget und noch andere sachen gemacht.
 
-## Planung 23.08.2026
+## Planung 21.08.2026
 - [x] Problem beim 3D rendering das die dreicke nicht ganz zusammen sind und lücken bilden.
 - [x] Anfangen zu schauen wie ich Texturen auf Models Rendern könnte.
 - [x] Bisschen den Code schöner machen oder teile Löschen welche ich nicht mehr brauche.
+
+## 28.08.2026
+
+## Planung 28.08.2026
+- [ ] Texturen Loading
+- [ ] FPS ähnliche Camera
+- [ ] UI komponenten anfangen
