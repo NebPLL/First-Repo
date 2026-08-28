@@ -31,8 +31,16 @@ Reflexion: Ich konnte das Problem mit den Lücken zwischen 3Ecken gelöst. Wie i
 - [x] Bisschen den Code schöner machen oder teile Löschen welche ich nicht mehr brauche.
 
 ## 28.08.2026
+Reflexion: Ich konnte die Rotation von der Kamera implementiert. Das Texture Loading hat länger gebraucht als gedacht, da es schwerer war als gedacht und konnte es nicht implementieren ohne Fehler. 
 
 ## Planung 28.08.2026
 - [ ] Texturen Loading
-- [ ] FPS ähnliche Camera
+- [x] FPS ähnliche Camera
 - [ ] UI komponenten anfangen
+
+## 04.09.2026
+
+## Planung 04.09.2026
+- [ ] Texture Loading fertig implemtieren, das ich ein Object loaden kann mit Texture und es richtig gerendert wird.
+- [ ] Einfach UI komponenten anfangen zu Implementieren wie Button, Slider und Slider.
+- [ ] Den Code aufräumen, damit es einfacher ist neue Sachen zu implementieren und später einfacher Docs zu schreiben.
