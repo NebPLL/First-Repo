@@ -39,8 +39,17 @@ Reflexion: Ich konnte die Rotation von der Kamera implementiert. Das Texture Loa
 - [ ] UI komponenten anfangen
 
 ## 04.09.2026
+Reflexion: Ich konnte Textureloading Implementieren. Es gibt noch ein Problem das Model zwischen den Seiten Lücken haben, das muss ich ein anderes mal verbessern. Ich konnte UI Komponenten schon mal anfangen zu Implementieren.
 
 ## Planung 04.09.2026
-- [ ] Texture Loading fertig implemtieren, das ich ein Object loaden kann mit Texture und es richtig gerendert wird.
-- [ ] Einfach UI komponenten anfangen zu Implementieren wie Button, Slider und Slider.
-- [ ] Den Code aufräumen, damit es einfacher ist neue Sachen zu implementieren und später einfacher Docs zu schreiben.
+- [x] Texture Loading fertig implemtieren, das ich ein Object loaden kann mit Texture und es richtig gerendert wird.
+- [x] Einfach UI komponenten anfangen zu Implementieren wie Button, Slider und Slider.
+- [x] Den Code aufräumen, damit es einfacher ist neue Sachen zu implementieren und später einfacher Docs zu schreiben.
+
+## 11.09.2026
+
+## Planung 11.09.2026
+- [ ] Lücke zwischen den Models verbessern, so das das Model Rendering einwand frei ist.
+- [ ] Textbox hinzufügen
+- [ ] Ein Kleines Game wie Pong programmieren mit der Engine um zu schauen wie gut die Engine ist.  
+
