@@ -50,13 +50,13 @@ Reflexion: Ich konnte Textureloading Implementieren. Es gibt noch ein Problem da
 Reflexion: Die Lücke zwischen dem Model war ein Texture fehler. Die Textbox funktioniert okay, aber noch ausbaubar besonders das man keine Box bauen kann wo man Scrollen kann. Das Ponk game konnte ich einfach machen und da gab es kaum probleme.
 
 ## Planung 11.09.2026
-- [ ] Lücke zwischen den Models verbessern, so das das Model Rendering einwand frei ist.
-- [ ] Textbox hinzufügen
-- [ ] Ein Kleines Game wie Pong programmieren mit der Engine um zu schauen wie gut die Engine ist.  
+- [x] Lücke zwischen den Models verbessern, so das das Model Rendering einwand frei ist.
+- [x] Textbox hinzufügen
+- [x] Ein Kleines Game wie Pong programmieren mit der Engine um zu schauen wie gut die Engine ist.  
 
 ## 18.09.2026
 
-## Planung 11.09.2026
+## Planung 18.09.2026
 - [ ] Scrollen einfügen und schauen wie das Funktioniert.
 - [ ] Snake bauen.
 - [ ] Einfaches Konzept zusammen bauen wie Animationen funkonieren könnte könnten
