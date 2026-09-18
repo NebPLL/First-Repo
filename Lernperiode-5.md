@@ -55,8 +55,17 @@ Reflexion: Die Lücke zwischen dem Model war ein Texture fehler. Die Textbox fun
 - [x] Ein Kleines Game wie Pong programmieren mit der Engine um zu schauen wie gut die Engine ist.  
 
 ## 18.09.2026
+Reflexion: Das Scrollen funktioniert okay, es ist nicht das beste funktioniert aber. Mit snake hatte ich ein paar probleme, da ich nicht genau verstanden habe wie genau der Körper hinter dem Kopf her gehen soll. Wie Animation funkonieren, habe ich mir mal angeschaut wie es andere libaries und Programme machen und merke wie viel man da machen kann.
 
 ## Planung 18.09.2026
-- [ ] Scrollen einfügen und schauen wie das Funktioniert.
-- [ ] Snake bauen.
-- [ ] Einfaches Konzept zusammen bauen wie Animationen funkonieren könnte könnten
+- [x] Scrollen einfügen und schauen wie das Funktioniert.
+- [x] Snake bauen.
+- [x] Einfaches Konzept zusammen bauen wie Animationen funkonieren könnte könnten
+
+
+## 25.09.2026
+
+## Planung 25.09.2026
+- [ ] Einen weg machen womit man einfach das 4-Eck vergrössern und verkleiner kann mit einer Animation. 
+- [ ] Einen weg bauen womit man einfach Farben verläufe machen kann.
+- [ ] Die Verschiedenen Rendering Stages aufteilen damit der code modularer ist, so wie in OpgenGL.
