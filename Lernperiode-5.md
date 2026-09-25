@@ -13,7 +13,6 @@ Diese Lernperiode versuche ich einfach meinen Ziehl zu folgen und nicht ein biss
 ### Projekte / neue Technologien
 Ich will meine eigene Rendering Engine machen. Ich habe momentan schon eine Engine welche 2D und 3D rendern kann. 
 Es ist ein software renderer und es ist von einen Tutorial. Den 3D teil habe ich selber gemacht mit Hilfe von Ai und einen Video für den Mathematischen teil.
-Ich habe das Video im Rendering Engine Verlinkt.
 
 
 ### Generelle Ziele
@@ -64,8 +63,15 @@ Reflexion: Das Scrollen funktioniert okay, es ist nicht das beste funktioniert a
 
 
 ## 25.09.2026
+Reflexion: Ich habe einen weg gemacht wo man 4-Ecke vergrössern und verkleiner kann. Die Farbverläufe habe ich auch gemacht aber bisher nur bis zu 2 Farben. Das Aufteilen vom Code ging mehr oder weniger gut aus.
+
 
 ## Planung 25.09.2026
-- [ ] Einen weg machen womit man einfach das 4-Eck vergrössern und verkleiner kann mit einer Animation. 
-- [ ] Einen weg bauen womit man einfach Farben verläufe machen kann.
-- [ ] Die Verschiedenen Rendering Stages aufteilen damit der code modularer ist, so wie in OpgenGL.
+- [x] Einen weg machen womit man einfach das 4-Eck vergrössern und verkleiner kann mit einer Animation. 
+- [x] Einen weg bauen womit man einfach Farben verläufe machen kann.
+- [x] Die Verschiedenen Rendering Stages aufteilen damit der Code modularer ist, so wie in OpgenGL.
+
+## Lernperiode Reflexion
+
+Diese Lernperiode habe ich viel über Rendering gelernt. Ich habe meine Ziele Erreicht das es 3D Rendern kann mit Texture und ein paar UI Componenten hat. Ich werde vielleicht noch in zukunft einfache Documentation und Tests schreiben. 
+Insgesamt habe ich meine Ziele erreicht und ein bisschen weiter gekommen.
