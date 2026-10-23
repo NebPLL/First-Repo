@@ -1,4 +1,4 @@
-verbesser rechschreiben lasse aber die struktur usw gleich # Lern-Periode 6
+# Lern-Periode 6
 <!--
 **ANLEITUNG**
 
