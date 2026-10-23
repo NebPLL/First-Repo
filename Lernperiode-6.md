@@ -42,6 +42,8 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 
 Ich will diese Lernperiode C lernen und mehr über Memory Mangment lernen. Ich will auch gerne ein paar Data strukturen selber bauen um zu verstehen wie sie funktionieren. 
 
+Mein C test Repo: https://github.com/NebPLL/c-learn
+
 ### Generelle Ziele
 <!--
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
@@ -70,12 +72,32 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Verstehen was Pointers sind und wie man sie benutzt.
-- [ ] Genau nachschauen was es für Data strukturen gibt und sie aufschreiben. 
-- [ ] Verstehen wie free und malloc funktioniert und wie man sie anwendet
+- [x] Verstehen, was Pointers sind und wie man sie benutzt.
+- [x] Genau nachschauen, was es für Datenstrukturen gibt, und sie aufschreiben.
+- [x] Verstehen, wie free und malloc funktionieren und wie man sie anwendet.
 
 
 #### Tagesreflexion
+Ich habe meine Ziele erreicht. Ich habe viel gelernt über Pointers und wie man sie benutzt. Ich habe ein paar Datenstrukturen aufgebaut. Ich will nächste Woche noch entscheiden, welche Datenstrukturen ich selber nachbauen will. Free und malloc habe ich auch verstanden und habe auch einen kleinen Test gemacht. Ich will aber noch genauer verstehen, was Dangling Pointers sind.
+
+### Planung 30.10.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] Dangling Pointers verstehen und ein Programm machen, womit man sie ausnutzen kann.
+- [ ] Entscheiden, welche Datenstruktur ich nachbauen will.
+- [ ] Anfangen, eine Datenstruktur nachzubauen, und vielleicht fertig werden.
+
+#### Tagesreflexion
+
+
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
