@@ -1,4 +1,4 @@
-# Lern-Periode 6
+verbesser rechschreiben lasse aber die struktur usw gleich # Lern-Periode 6
 <!--
 **ANLEITUNG**
 
@@ -20,7 +20,6 @@ Diese Blöcke können Sie entfernen oder zur Orientierung stehen lassen.
 
 - Name: Ben Heger
 - Zeitraum: 23.10.2026 bis 18.12.2026
-
 ## Grob-Planung
 
 ### Noten
@@ -41,7 +40,7 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-Ich will diese Lernperiode C lernen und mehr über Memory Mangment lernen. Ich will auch gerne ein paar Data strukturen selber bauen um zu schauen wie sie funktionieren. 
+Ich will diese Lernperiode C lernen und mehr über Memory Mangment lernen. Ich will auch gerne ein paar Data strukturen selber bauen um zu verstehen wie sie funktionieren. 
 
 ### Generelle Ziele
 <!--
@@ -82,12 +81,7 @@ Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
 und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
 Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-
-
-
-<!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
 
@@ -99,4 +93,3 @@ hatten? Unterm Strich, was ist Ihr grösstes Lernresultat? Was nehmen Sie für d
 Zukunft mit aus dieser Lernperiode?
 Umfang: 100 - 200 Wörter (ungefähr 6 - 12 Sätze)
 -->
-
