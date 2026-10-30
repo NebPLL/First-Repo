@@ -91,9 +91,27 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Dangling Pointers verstehen und ein Programm machen, womit man sie ausnutzen kann.
-- [ ] Entscheiden, welche Datenstruktur ich nachbauen will.
-- [ ] Anfangen, eine Datenstruktur nachzubauen, und vielleicht fertig werden.
+- [x] Dangling Pointers verstehen und ein Programm machen, womit man sie ausnutzen kann.
+- [x] Entscheiden, welche Datenstruktur ich nachbauen will.
+- [x] Anfangen, eine Datenstruktur nachzubauen, und vielleicht fertig werden.
+
+#### Tagesreflexion
+Ich habe ein kleines Program gemacht um einen danglin pointer auszunutzen und ich verstehe jetzt was danglin pointer sind. Ich habe mich für 4 Datastrukturen entschieden welche ich machen will. Ich habe mich für 2 Leichte und 2 Schwere Data strukturen Entschieden. Ich habe auch angefangen eine Linked list zu bauen. Ich habe schon die operationen init_head(), push_front(), print_list() und free_list. 
+
+### Planung 6.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] Dynamic Array bauen. Einfache Danamic array bauen.
+- [ ] Ein paar mehr Operation für die Link List hinzufügen.
+- [ ] Ansii anschauen und verstehen 
 
 #### Tagesreflexion
 
