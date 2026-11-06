@@ -109,12 +109,12 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Dynamic Array bauen. Einfache Danamic array bauen.
-- [ ] Ein paar mehr Operation für die Link List hinzufügen.
-- [ ] Ansii anschauen und verstehen 
+- [x] Dynamic Array bauen. Einfache Danamic array bauen.
+- [x] Ein paar mehr Operation für die Link List hinzufügen.
+- [x] Ansii anschauen und verstehen 
 
 #### Tagesreflexion
-
+Ich habe mir heute angefangen den Dynamic Array zu bauen. Heute konnte ich mich nicht so konzentiren und habe deswegen lange gebraucht um zu verstehen wie ein dynamic array funktioniert. Bei der linked list habe ich weitere funktionen hinzugefügt, aber ich muss dann noch schauen wie man den code verbessern kann und optimieren kann, weil momentan habe ich nicht wirklich mir angeschaut wie man es optimal implementiert mit der kürzsten zeit und habe es versucht zu bauen. Ansii habe mir angeschaut und versucht zu verstehen. Ich habe mir ein basic commands wie \n und andere angeschaut. 
 
 <!--
 Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
@@ -124,6 +124,22 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
+
+### Planung 20.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [ ] Linked list nach Memory problemen untersuchen und nach besser implementierung suchen.
+- [ ] 3 Weitere funktionen zu dem Dynamischen Array hinzufügen.
+- [ ] Tools finden um Memory Leaks und probleme besser zu finden.
 
 ## Lernperiode Reflexion
 <!--
