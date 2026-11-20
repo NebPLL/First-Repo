@@ -144,7 +144,7 @@ Beispiele:
 #### Tagesreflexion
 Ich habe einige Speicherprobleme in der Linked List gefunden und behoben. Für eine effizientere Implementierung habe ich mir einiges angeschaut, es aber noch nicht wirklich übernommen. Außerdem habe ich drei weitere Funktionen hinzugefügt (insert, clear und reserve), die allerdings noch etwas Feinschliff brauchen. Bei den Tools habe ich einige Compiler-Flags eingesetzt und Warnings im Build-Skript aktiviert.
 
-### Planung 20.11.2026 
+### Planung 27.11.2026 
 
 - [ ] Feinschliff am Dynamic Array vornehmen.
 - [ ] Entscheiden, mit welcher Datenstruktur ich als Nächstes anfange, und verstehen, wie sie intern funktioniert.
