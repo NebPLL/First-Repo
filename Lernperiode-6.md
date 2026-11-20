@@ -137,9 +137,18 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Linked list nach Memory problemen untersuchen und nach besser implementierung suchen.
-- [ ] 3 Weitere funktionen zu dem Dynamischen Array hinzufügen.
-- [ ] Tools finden um Memory Leaks und probleme besser zu finden.
+- [x] Linked list nach Memory problemen untersuchen und nach besser implementierung suchen.
+- [x] 3 Weitere funktionen zu dem Dynamischen Array hinzufügen.
+- [x] Tools finden um Memory Leaks und probleme besser zu finden.
+
+#### Tagesreflexion
+Ich habe einige Speicherprobleme in der Linked List gefunden und behoben. Für eine effizientere Implementierung habe ich mir einiges angeschaut, es aber noch nicht wirklich übernommen. Außerdem habe ich drei weitere Funktionen hinzugefügt (insert, clear und reserve), die allerdings noch etwas Feinschliff brauchen. Bei den Tools habe ich einige Compiler-Flags eingesetzt und Warnings im Build-Skript aktiviert.
+
+### Planung 20.11.2026 
+
+- [ ] Feinschliff am Dynamic Array vornehmen.
+- [ ] Entscheiden, mit welcher Datenstruktur ich als Nächstes anfange, und verstehen, wie sie intern funktioniert.
+- [ ] Mit der Basisimplementierung beginnen.
 
 ## Lernperiode Reflexion
 <!--
